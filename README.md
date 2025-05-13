@@ -1,6 +1,6 @@
 # 🚴‍♀️ Bike Sales Analytics Dashboard
 
-![Dashboard](https://raw.githubusercontent.com/iamsharononi/Bike-Sales-Dashboard/main/bike_sales_dashboard_preview.jpg) <!-- Replace with your image URL -->
+![Dashboard](https://raw.githubusercontent.com/iamsharononi/Bike-Sales-Dashboard/refs/heads/main/Bike%20Sales%20Dashboard.jpg) <!-- Replace with your image URL -->
 
 ---
 
@@ -77,7 +77,7 @@ The Excel dashboard showcases:
 
 ## 📷 Preview
 
-![Dashboard](https://raw.githubusercontent.com/iamsharononi/Bike-Sales-Dashboard/main/bike_sales_dashboard_preview.jpg) <!-- Replace with actual image -->
+![Dashboard](https://raw.githubusercontent.com/iamsharononi/Bike-Sales-Dashboard/refs/heads/main/Bike%20Sales%20Dashboard.jpg)  <!-- Replace with actual image -->
 
 ---
 
